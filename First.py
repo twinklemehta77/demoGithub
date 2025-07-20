@@ -1,6 +1,7 @@
 print("Hello World")
 
 # Program to add two numbers
+# Program is too good and simple
 
 # Define variables
 num1 = 5
