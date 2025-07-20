@@ -27,3 +27,6 @@ product = a * b
 
 # Print the result
 print("The product of", a, "and", b, "is:", product)
+
+# Project is completed
+
